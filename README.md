@@ -8,7 +8,7 @@
 * For Public Channels Bot is used to forward.
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrinvisible7/forward_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/meiranbot/forward_botV3)
 
 ### Variables
 
