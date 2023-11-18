@@ -8,7 +8,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/mrinvisible7/forward_bot",
+  "repository": "https://github.com/meiranbot/forward_botV3",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
